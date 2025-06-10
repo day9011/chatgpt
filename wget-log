@@ -1,0 +1,6 @@
+--2025-06-10 11:26:23--  https://evaluation.llm.obs.ap-southeast-1.myhuaweicloud.com/iag_test/frames%20%281%29.tar?AccessKeyId=HPUAPMT8UKQKUPM1K7AL
+Resolving evaluation.llm.obs.ap-southeast-1.myhuaweicloud.com (evaluation.llm.obs.ap-southeast-1.myhuaweicloud.com)... 119.13.113.35, 119.13.113.34
+Connecting to evaluation.llm.obs.ap-southeast-1.myhuaweicloud.com (evaluation.llm.obs.ap-southeast-1.myhuaweicloud.com)|119.13.113.35|:443... connected.
+ERROR: no certificate subject alternative name matches
+	requested host name ‘evaluation.llm.obs.ap-southeast-1.myhuaweicloud.com’.
+To connect to evaluation.llm.obs.ap-southeast-1.myhuaweicloud.com insecurely, use `--no-check-certificate'.
